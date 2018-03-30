@@ -7,15 +7,15 @@ Collections of what I learned every day.
 
 ### Categories
 
-- [Cassandra](#Cassandra)
-- [Data Science](#Data Science)
-- [Kafaka](#Kafaka)
-- [Linux](#Linux)
-- [Machine Learning](#Machine Learning)
-- [Octave](#Octave)
-- [Python](#Python)
-- [React](#React)
-- [Spark](#Spark)
+- [Cassandra](#cassandra)
+- [Data Science](#data-science)
+- [Kafaka](#kafaka)
+- [Linux](#linux)
+- [Machine Learning](#machine-learning)
+- [Octave](#octave)
+- [Python](#python)
+- [React](#react)
+- [Spark](#spark)
 
 ---
 
