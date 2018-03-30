@@ -222,5 +222,5 @@ function [theta] = normalEqn(X, y)
 end
 ```
 
-[Excercise](https://github.com/daenamkim/til/data-science/coursera-machine-learning-ex1.pdf)
+[Excercise](coursera-machine-learning-ex1.pdf)
 [Course Link](https://www.coursera.org/learn/machine-learning/)
