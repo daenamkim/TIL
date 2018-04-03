@@ -1,0 +1,15 @@
+# Install Command Line Tools
+
+When I tried to build some codes in macOS I confronted a problem as below.
+
+```
+xcode-select: error: tool 'xcodebuild' requires Xcode, but active developer directory '/Library/Developer/CommandLineTools' is a command line tools instance
+```
+
+### Solution
+
+```
+$ sudo xcodebuild -license
+```
+
+Note that Xcode must be installed prior to installing the command line tool.
