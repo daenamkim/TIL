@@ -25,7 +25,7 @@ Collections of what I learned every day.
 ---
 
 ### Algorithm
-- [Restart Algorithm + Coding Study to Save My Soul from Death](algorithm/restart-algorithm-+-coding-study-to-save-my-soul-from-Death.md)
+- [Restart Algorithm + Coding Study to Save My Soul from Death](algorithm/restart-algorithm-+-coding-study-to-save-my-soul-from-death.md)
 
 ### Cassandra
 
@@ -69,4 +69,4 @@ Collections of what I learned every day.
 
 ### Yarn
 
-- [Yarn Self-Update](yarn-self-update.md)
+- [Yarn Self-Update](yarn/yarn-self-update.md)
