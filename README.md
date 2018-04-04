@@ -69,4 +69,4 @@ Collections of what I learned every day.
 
 ### Yarn
 
-- [Yarn Self-Update](yarn-self-update)
+- [Yarn Self-Update](yarn-self-update.md)
