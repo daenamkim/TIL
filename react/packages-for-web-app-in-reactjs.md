@@ -3,6 +3,7 @@
 I thought about good packages for the development of ReactJS web app as below.
 Everything refreshes me and I'm really thrilled to start a new project with these.
 
+- Package Manager: [Yarn](https://yarnpkg.com/en/)
 - Web Server: [webpack](https://webpack.js.org/)
 - JS Libray: [reactjs](https://reactjs.org/)
 - Router: [react-router-dom](https://reacttraining.com/react-router/)
@@ -10,4 +11,4 @@ Everything refreshes me and I'm really thrilled to start a new project with thes
 - AJAX: [axios](https://github.com/axios/axios)
 - Async Process: [redux-saga](https://redux-saga.js.org/))
 - Localizing: [react-localize-redux](https://ryandrewjohnson.github.io/react-localize-redux/getting-started/)
-
+- Websocket: ws, sockjs, socket.io?, HTML5 WebSocket? I'm thinking which one is good.

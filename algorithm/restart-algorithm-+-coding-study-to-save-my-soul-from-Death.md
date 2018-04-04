@@ -1,4 +1,4 @@
-# Restart Algorithm + Coding Study to Save My Soul from Death.
+# Restart Algorithm + Coding Study to Save My Soul from Death
 
 To save my soul from death, I restarted to study how to code with algorightms.
 
