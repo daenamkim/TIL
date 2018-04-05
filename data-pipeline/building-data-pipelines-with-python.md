@@ -1,0 +1,47 @@
+# Building Data Pipelines with Python
+
+Data pieline is my biggest interest and I found an awesome [course](https://www.safaribooksonline.com/library/view/building-data-pipelines/9781491970270/) as below.
+
+- Introduction
+- [x] [Welcome To The Course](https://www.safaribooksonline.com/library/view/building-data-pipelines/9781491970270/video289818.html)
+- [x] [About The Author](https://www.safaribooksonline.com/library/view/building-data-pipelines/9781491970270/video289819.html)
+- [x] [How To Access Your Working Files](https://www.safaribooksonline.com/library/view/building-data-pipelines/9781491970270/video289820.html)
+- Automation 101
+- [ ] [Introduction To Automation]()
+- [ ] [Adventures With Servers]()
+- [ ] [Being A Good Systems Caretaker]()
+- [ ] [What Is A Queue?]()
+- [ ] [What Is A Consumer? What Is A Producer?]()
+- Easy Task Processing With Celery
+- [ ] [Why Celery?]()
+- [ ] [Celery Architecture & Set Up]()
+- [ ] [Writing Your First Tasks]()
+- [ ] [Deploying Your Tasks]()
+- [ ] [Scaling Your Workers]()
+- [ ] [Monitoring With Flower]()
+- [ ] [Advanced Celery Features]()
+- Scaling Data Analysis With Dask
+- [ ] [Why Dask?]()
+- [ ] [First Steps With Dask]()
+- [ ] [Dask Bags]()
+- [ ] [Dask Distributed]()
+- Data Pipelines With Luigi & Airflow
+- [ ] [What Are Data Pipelines? What Is Dag?]()
+- [ ] [Luigi And Airflow: A Comparison]()
+- [ ] [First Steps With Luigi]()
+- [ ] [More Complex Luigi Tasks]()
+- [ ] [Introduction To Hadoop]()
+- [ ] [First Steps With Airflow]()
+- [ ] [Custom Tasks With Airflow]()
+- [ ] [Advanced Airflow: Subdags And Branches]()
+- [ ] [Using Luigi With Hadoop]()
+- Other Workflow Frameworks
+- [ ] [Apache Spark]()
+- [ ] [Apache Spark Streaming]()
+- [ ] [Django Channels]()
+- [ ] [And Many More]()
+- Testing With Pipelines
+- [ ] [Introduction To Testing With Python]()
+- [ ] [Property-Based Testing With Hypothesis]()
+- Conclusion
+- [ ] [What's Next?]()
