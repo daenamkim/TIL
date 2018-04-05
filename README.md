@@ -63,7 +63,7 @@ Collections of what I learned every day.
 
 ### Node.js
 
-- [Yarn Self-Update](yarn/yarn-self-update.md)
+- [Yarn Self-Update](nodejs/yarn-self-update.md)
 
 ### Octave
 
@@ -73,11 +73,11 @@ Collections of what I learned every day.
 
 - [Packages for Web App in ReactJS](react/packages-for-web-app-in-reactjs.md)
 - [ReactJS and Redux Study](react/reactjs-and-redux-study.md)
-- [React Localize Redux](react/react-localize-redux.md)
-- [ReactJS and Socket.io](react/react-socket.io.md)
+- [React Localize Redux]
+- [ReactJS and Socket.io]
 
 ### Serverless
 
 ### Spark
 
-- [LDA with Spark Clustering](spark/lda-with-spark-clustering.md)
+- [LDA with Spark Clustering]
