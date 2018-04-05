@@ -1,0 +1,32 @@
+# HackerRank 30 Days of Code
+
+- [x] [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)
+- [x] [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem)
+- [x] [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)
+- [x] [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
+- [x] [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem)
+- [x] [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)
+- [x] [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)
+- [x] [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)
+- [x] [Day 9: Recursion](https://www.hackerrank.com/challenges/30-recursion/problem)
+- [x] [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)
+- [x] [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)
+- [ ] [Day 12: Inheritance]
+- [ ] [Day 13: Abstract Classes]
+- [ ] [Day 14: Scope]
+- [ ] [Day 15: Linked List]
+- [ ] [Day 16: Exceptions - String to Integer]
+- [ ] [Day 17: More Exceptions]
+- [ ] [Day 18: Queues and Stacks]
+- [ ] [Day 19: Interfaces]
+- [ ] [Day 20: Sorting]
+- [ ] [Day 21: Generics]
+- [ ] [Day 22: Binary Search Trees]
+- [ ] [Day 23: BST Level-Order Traversal]
+- [ ] [Day 24: More Linked Lists]
+- [ ] [Day 25: Running Time and Complexity]
+- [ ] [Day 26: Nested Logic]
+- [ ] [Day 27: Testing]
+- [ ] [Day 28: RegEx, Patterns, and Intro to Databases]
+- [ ] [Day 29: Bitwise AND]
+- [ ] 
