@@ -10,17 +10,19 @@ Collections of what I learned every day.
 - [Algorithm](#algorithm)
 - [Cassandra](#cassandra)
 - [Chrome](#chrome)
+- [Data Pipeline](#data-pipeline)
 - [Data Science](#data-science)
 - [Jenkins](#jenkins)
 - [Kafaka](#kafaka)
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
 - [MacOS](#macos)
+- [MacOS](#node.js)
 - [Octave](#octave)
 - [Python](#python)
 - [React](#react)
+- [Serverless](#serverless)
 - [Spark](#spark)
-- [Yarn](#yarn)
 
 ---
 
@@ -30,6 +32,10 @@ Collections of what I learned every day.
 ### Cassandra
 
 ### Chrome
+
+### Data Pipeline (*)
+
+- [Building Data Pipelines with Python](data-pipeline/building-data-pipelines-with-python.md)
 
 ### Data Science
 
@@ -55,6 +61,10 @@ Collections of what I learned every day.
 
 ### MacOS
 
+### Node.js
+
+- [Yarn Self-Update](yarn/yarn-self-update.md)
+
 ### Octave
 
 ### Python
@@ -63,10 +73,11 @@ Collections of what I learned every day.
 
 - [Packages for Web App in ReactJS](react/packages-for-web-app-in-reactjs.md)
 - [ReactJS and Redux Study](react/reactjs-and-redux-study.md)
+- [React Localize Redux](react/react-localize-redux.md)
+- [ReactJS and Socket.io](react/react-socket.io.md)
+
+### Serverless
 
 ### Spark
 
-
-### Yarn
-
-- [Yarn Self-Update](yarn/yarn-self-update.md)
+- [LDA with Spark Clustering](spark/lda-with-spark-clustering.md)

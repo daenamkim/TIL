@@ -20,3 +20,7 @@ To save my soul from death, I restarted to study how to code with algorightms.
 - [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem)
 - [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)
 - [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)
+- [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)
+- [Day 9: Recursion](https://www.hackerrank.com/challenges/30-recursion/problem)
+- [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)
+- [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)
