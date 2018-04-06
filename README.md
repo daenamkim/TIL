@@ -19,8 +19,9 @@ Collections of what I learned every day.
 - [**Machine Learning**](machine-learning) - [Coursera Machine Learning](machine-learning/coursera-machine-learning.md) in progress
 - [MacOS](macos)
 - [Nodejs](nodejs)
-- [Octave](octave)
+- [Octave]
 - [Python](python)
 - [React](react)
+- [Scalar](scalar)
 - [**Serverless**](serverless) - [Serverless Stack](serverless/serverless-stack.md) in progress
 - [Spark](spark)
