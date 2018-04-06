@@ -1,4 +1,4 @@
-# Building Data Pipelines with Python
+# Safari Building Data Pipelines with Python
 
 Data pieline is my biggest interest and I found an awesome [course](https://www.safaribooksonline.com/library/view/building-data-pipelines/9781491970270/) as below.
 
@@ -7,11 +7,11 @@ Data pieline is my biggest interest and I found an awesome [course](https://www.
 - [x] [About The Author](https://www.safaribooksonline.com/library/view/building-data-pipelines/9781491970270/video289819.html)
 - [x] [How To Access Your Working Files](https://www.safaribooksonline.com/library/view/building-data-pipelines/9781491970270/video289820.html)
 - Automation 101
-- [ ] [Introduction To Automation]()
-- [ ] [Adventures With Servers]()
-- [ ] [Being A Good Systems Caretaker]()
-- [ ] [What Is A Queue?]()
-- [ ] [What Is A Consumer? What Is A Producer?]()
+- [x] [Introduction To Automation]()
+- [x] [Adventures With Servers]()
+- [x] [Being A Good Systems Caretaker]()
+- [x] [What Is A Queue?]()
+- [x] [What Is A Consumer? What Is A Producer?]()
 - Easy Task Processing With Celery
 - [ ] [Why Celery?]()
 - [ ] [Celery Architecture & Set Up]()
