@@ -12,6 +12,7 @@ Collections of what I learned every day.
 - [Chrome](chrome)
 - [**Data Pipeline**](data-pipeline) - [Safari Building Data Pipelines with Python](data-pipeline/safari-building-data-pipelines-with-python.md) in progress
 - [**Data Science**](data-science) - [DataCamp Data Analyst with Python](data-science/datacamp-data-analyst-with-python.md) in progress
+- [Docker](docker)
 - [Jenkins](jenkins)
 - [Kafaka](kafaka)
 - [Linux](linux)
