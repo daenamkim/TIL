@@ -7,23 +7,25 @@ Collections of what I learned every day.
 
 ### Categories
 
-- [**Algorithm**](algorithm) - [HackerRank 30 Days of Code](algorithm/hackerrank-30-days-of-code.md) in progress
+- [Algorithm](algorithm)
 - [Cassandra]
 - [Chrome](chrome)
-- [**Data Pipeline**](data-pipeline) - [Safari Building Data Pipelines with Python](data-pipeline/safari-building-data-pipelines-with-python.md) in progress
-- [**Data Science**](data-science) - [DataCamp Data Analyst with Python](data-science/datacamp-data-analyst-with-python.md) in progress
+- [Data Pipeline](data-pipeline)
+- [Data Science](data-science)
+- [Distributed Systems](distributed-systems)
 - [Docker](docker)
 - [EJS]
 - [Jekyll]
 - [Jenkins]
 - [Kafaka]
 - [Linux]
-- [**Machine Learning**](machine-learning) - [Coursera Machine Learning](machine-learning/coursera-machine-learning.md) in progress
+- [Machine Learning](machine-learning)
 - [MacOS](macos)
 - [Nodejs](nodejs)
 - [Octave](octave)
 - [Python](python)
 - [React](react)
+- [Regex](regex)
 - [Scalar](scalar)
-- [**Serverless**](serverless) - [Serverless Stack](serverless/serverless-stack.md) in progress
+- [Serverless](serverless)
 - [Spark](spark)
