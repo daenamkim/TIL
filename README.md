@@ -8,18 +8,20 @@ Collections of what I learned every day.
 ### Categories
 
 - [**Algorithm**](algorithm) - [HackerRank 30 Days of Code](algorithm/hackerrank-30-days-of-code.md) in progress
-- [Cassandra](cassandra)
+- [Cassandra]
 - [Chrome](chrome)
 - [**Data Pipeline**](data-pipeline) - [Safari Building Data Pipelines with Python](data-pipeline/safari-building-data-pipelines-with-python.md) in progress
 - [**Data Science**](data-science) - [DataCamp Data Analyst with Python](data-science/datacamp-data-analyst-with-python.md) in progress
 - [Docker](docker)
-- [Jenkins](jenkins)
-- [Kafaka](kafaka)
-- [Linux](linux)
+- [EJS]
+- [Jekyll]
+- [Jenkins]
+- [Kafaka]
+- [Linux]
 - [**Machine Learning**](machine-learning) - [Coursera Machine Learning](machine-learning/coursera-machine-learning.md) in progress
 - [MacOS](macos)
 - [Nodejs](nodejs)
-- [Octave]
+- [Octave](octave)
 - [Python](python)
 - [React](react)
 - [Scalar](scalar)
