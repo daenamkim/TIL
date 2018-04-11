@@ -8,6 +8,7 @@ Collections of what I learned every day.
 ### Categories
 
 - [Algorithm](algorithm)
+- [AWS](aws)
 - [Cassandra]
 - [Chrome](chrome)
 - [Data Pipeline](data-pipeline)
@@ -24,6 +25,7 @@ Collections of what I learned every day.
 - [Nodejs](nodejs)
 - [Octave](octave)
 - [Python](python)
+- [R]
 - [React](react)
 - [Regex](regex)
 - [Scalar](scalar)
