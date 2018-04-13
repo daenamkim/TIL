@@ -15,8 +15,3 @@ Based on [Serverless Stack](https://serverless-stack.com/), Learn to Build Full-
 ### Note App Host
 
 - [Note App's URL](d3c80hzai50moe.cloudfront.net)
-
-### Working Repository
-
-- [Serverless Notes App Backend API](https://github.com/daenamkim/serverless-notes-app-api)
-- [Serverless Notes App Frontend React](https://github.com/daenamkim/serverless-notes-app-react)
