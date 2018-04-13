@@ -16,6 +16,7 @@ Collections of what I learned every day.
 - [Distributed Systems](distributed-systems)
 - [Docker](docker)
 - [EJS]
+- [JavaScript](javascript)
 - [Jekyll]
 - [Jenkins]
 - [Kafaka]
@@ -30,4 +31,4 @@ Collections of what I learned every day.
 - [Regex](regex)
 - [Scalar](scalar)
 - [Serverless](serverless)
-- [Spark](spark)
+- [Spark]

@@ -16,18 +16,18 @@ class App extends Component {
     // As of now I don't know why.
     socket.on('newMessage', (message) => this.setState(
       // Append a new message.
-      (prevState) => ({ messages: [...prevState.messages, message] })
+      (prevState) => ({messages: [...prevState.messages, message]})
     ))
 
     return (
-      <div style={{ textAlign: "center"}}>
+      <div style={{textAlign: "center"}}>
         ...
         <p>
           <input type="text" autoComplete="off" ref="chatMessage" />
-          <button onClick={ () => this.sendMessage() }>Send</button>
+          <button onClick={() => this.sendMessage()}>Send</button>
         </p>
         <ul>
-          { this.state.messages.map((i) => <li key={ Math.random() }>{ i }</li>) }
+          {this.state.messages.map((i) => <li key={Math.random()}>{i}</li>)}
         </ul>
       </div>
     );
@@ -48,20 +48,20 @@ class App extends Component {
     // ===== HERE =====
     socket.on('newMessage', (message) => this.setState(
       // Append a new message.
-      (prevState) => ({ messages: [...prevState.messages, message] })
+      (prevState) => ({messages: [...prevState.messages, message]})
     ))
   }
 
   render() {
     return (
-      <div style={{ textAlign: "center"}}>
+      <div style={{textAlign: "center"}}>
         ...
         <p>
           <input type="text" autoComplete="off" ref="chatMessage" />
-          <button onClick={ () => this.sendMessage() }>Send</button>
+          <button onClick={() => this.sendMessage()}>Send</button>
         </p>
         <ul>
-          { this.state.messages.map((i) => <li key={ Math.random() }>{ i }</li>) }
+          {this.state.messages.map((i) => <li key={Math.random()}>{i}</li>)}
         </ul>
       </div>
     );

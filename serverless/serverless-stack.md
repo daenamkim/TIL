@@ -7,12 +7,16 @@ Based on [Serverless Stack](https://serverless-stack.com/), Learn to Build Full-
 - [x] [Setting up the Serverless Backend](https://serverless-stack.com/chapters/create-a-dynamodb-table.html)
 - [x] [Building a Serverless REST API](https://serverless-stack.com/chapters/add-a-create-note-api.html)
 - [x] [Deploying the Backend](https://serverless-stack.com/chapters/deploy-the-apis.html)
-- [ ] [Setting up a React App](https://serverless-stack.com/chapters/create-a-new-reactjs-app.html)
-- [ ] [Building a React App](https://serverless-stack.com/chapters/create-a-login-page.html)
-- [ ] [Deploying a React app on AWS](https://serverless-stack.com/chapters/deploy-the-frontend.html)
-- [ ] [Conclusion](https://serverless-stack.com/chapters/wrapping-up.html)
+- [x] [Setting up a React App](https://serverless-stack.com/chapters/create-a-new-reactjs-app.html)
+- [x] [Building a React App](https://serverless-stack.com/chapters/create-a-login-page.html)
+- [x] [Deploying a React app on AWS](https://serverless-stack.com/chapters/deploy-the-frontend.html)
+- [x] [Conclusion](https://serverless-stack.com/chapters/wrapping-up.html)
+
+### Note App Host
+
+- [Note App's URL](d3c80hzai50moe.cloudfront.net)
 
 ### Working Repository
 
-- [Serverless Notes App Backend API]
-- [Serverless NOtes App Frontend in ReactJS]
+- [Serverless Notes App Backend API](https://github.com/daenamkim/serverless-notes-app-api)
+- [Serverless Notes App Frontend React](https://github.com/daenamkim/serverless-notes-app-react)
