@@ -1,5 +1,11 @@
 # Full Stack Serverless Notes App
 
+### Notes App Host
+
+- [Notes App's URL](http://notes.oootoko.net/)
+
+### Serverless Stack Tutorial
+
 Based on [Serverless Stack](https://serverless-stack.com/), Learn to Build a Full-Stack App with Serverless, React and many functions of AWS.
 
 - [x] [Introduction](https://serverless-stack.com/chapters/who-is-this-guide-for.html)
@@ -12,14 +18,10 @@ Based on [Serverless Stack](https://serverless-stack.com/), Learn to Build a Ful
 - [x] [Deploying a React app on AWS](https://serverless-stack.com/chapters/deploy-the-frontend.html)
 - [x] [Conclusion](https://serverless-stack.com/chapters/wrapping-up.html)
 
-### Note App Host
-
-- [Note App's URL](d3c80hzai50moe.cloudfront.net)
-
 ### Improvements
 
-- [x] Reaplce UI with Material-UI.
-- [ ] Connect to Custom Domain.
+- [ ] Reaplce UI with Material-UI.
+- [x] Connect to CloudFront.
 - [ ] Setup a SSL on Domain.
 - [ ] Remove an attachment when removing a note. (Refer to AWS Amplify.)
 - [ ] Add a Trash Can for a Removed Note.
