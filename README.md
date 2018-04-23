@@ -25,6 +25,7 @@ Collections of what I learned every day.
 - [MacOS](macos)
 - [Nodejs](nodejs)
 - [Octave](octave)
+- [Pandas]
 - [Python](python)
 - [R]
 - [React](react)
@@ -32,3 +33,7 @@ Collections of what I learned every day.
 - [Scalar](scalar)
 - [Serverless](serverless)
 - [Spark]
+- [VSCode](vscode)
+- [Web]
+- [etc](etc)
+
