@@ -1,6 +1,6 @@
-# Serverless Stack
+# Full Stack Serverless Notes App
 
-Based on [Serverless Stack](https://serverless-stack.com/), Learn to Build Full-Stack Apps with Serverless, React and many functions of AWS.
+Based on [Serverless Stack](https://serverless-stack.com/), Learn to Build a Full-Stack App with Serverless, React and many functions of AWS.
 
 - [x] [Introduction](https://serverless-stack.com/chapters/who-is-this-guide-for.html)
 - [x] [Set up your AWS account](https://serverless-stack.com/chapters/create-an-aws-account.html)
@@ -15,3 +15,17 @@ Based on [Serverless Stack](https://serverless-stack.com/), Learn to Build Full-
 ### Note App Host
 
 - [Note App's URL](d3c80hzai50moe.cloudfront.net)
+
+### Improvements
+
+- [x] Reaplce UI with Material-UI.
+- [ ] Connect to Custom Domain.
+- [ ] Setup a SSL on Domain.
+- [ ] Remove an attachment when removing a note. (Refer to AWS Amplify.)
+- [ ] Add a Trash Can for a Removed Note.
+- [x] Replace node with 8.10 for backend APIs.
+- [ ] Add a note ID to a part of an attachment's name.
+- [ ] Add test cases with Jest.
+- [ ] Add an Account Info Update.
+- [ ] Add Jenkins CI/CD.
+- [ ] Add Jenkins Build Status. (Refer to [here](https://wiki.jenkins.io/display/JENKINS/Embeddable+Build+Status+Plugin).)

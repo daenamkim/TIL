@@ -6,7 +6,7 @@ Collections of what I learned every day.
 ---
 
 ### Categories
-
+- [Projects](projects)
 - [Algorithm](algorithm)
 - [AWS](aws)
 - [Cassandra]
