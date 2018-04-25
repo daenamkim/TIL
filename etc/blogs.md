@@ -14,3 +14,5 @@
 - [ ] [Data science at DataCamp](http://varianceexplained.org/r/joining-datacamp/)
 - [ ] [Deep Learning Frameworks](https://engmrk.com/deep-learning-frameworks/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com)
 - [ ] [Here’s why so many data scientists are leaving their jobs](https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4)
+- [ ] [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
+- [ ] [6 Essential Tips on How to Become a Full Stack Developer](https://hackernoon.com/6-essential-tips-on-how-to-become-a-full-stack-developer-1d10965aaead)
