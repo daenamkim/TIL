@@ -9,6 +9,7 @@ Collections of what I learned every day.
 - [Projects](projects)
 - [Algorithm](algorithm)
 - [AWS](aws)
+- [Homebrew](homebrew)
 - [Cassandra]
 - [Chrome](chrome)
 - [Data Pipeline](data-pipeline)
