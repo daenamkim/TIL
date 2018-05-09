@@ -15,6 +15,5 @@
 - [ ] [Deep Learning Frameworks](https://engmrk.com/deep-learning-frameworks/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com)
 - [ ] [Here’s why so many data scientists are leaving their jobs](https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4)
 - [x] [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c) => [oootoko.net](http://oootoko.net/a-guide-to-becoming-a-full-stack-developer/)
-- [ ] [6 Essential Tips on How to Become a Full Stack Developer](https://hackernoon.com/6-essential-tips-on-how-to-become-a-full-stack-developer-1d10965aaead)
 - [ ] [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
-- [ ] [Separate Unit, Integration, and Functional Tests for Continuous Delivery](https://medium.com/pacroy/separate-unit-integration-and-functional-tests-for-continuous-delivery-f4dc240d8f2f)
+- [x] [Separate Unit, Integration, and Functional Tests for Continuous Delivery](https://medium.com/pacroy/separate-unit-integration-and-functional-tests-for-continuous-delivery-f4dc240d8f2f)
