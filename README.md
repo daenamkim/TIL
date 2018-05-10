@@ -16,7 +16,6 @@ Collections of what I learned every day.
 - [Data Science](data-science)
 - [Distributed Systems](distributed-systems)
 - [Docker](docker)
-- [EJS]
 - [JavaScript](javascript)
 - [Jekyll]
 - [Jenkins]
@@ -27,14 +26,9 @@ Collections of what I learned every day.
 - [Nodejs](nodejs)
 - [Octave](octave)
 - [Pandas]
-- [Python](python)
-- [R]
 - [React](react)
-- [Regex](regex)
-- [Scalar](scalar)
 - [Serverless](serverless)
 - [Spark]
 - [VSCode](vscode)
-- [Web]
 - [etc](etc)
 
