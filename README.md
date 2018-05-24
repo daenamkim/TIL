@@ -23,12 +23,14 @@ Collections of what I learned every day.
 - [Linux]
 - [Machine Learning](machine-learning)
 - [MacOS](macos)
+- [NGINX](nginx)
 - [Nodejs](nodejs)
 - [Octave](octave)
 - [Pandas]
 - [React](react)
 - [Serverless](serverless)
 - [Spark]
+- [SSL](ssl)
 - [VSCode](vscode)
 - [etc](etc)
 
