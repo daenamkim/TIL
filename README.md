@@ -30,6 +30,7 @@ Collections of what I learned every day.
 - [React](react)
 - [Serverless](serverless)
 - [Spark]
+- [SSH](ssh)
 - [SSL](ssl)
 - [VSCode](vscode)
 - [etc](etc)
