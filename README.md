@@ -18,7 +18,7 @@ Collections of what I learned every day.
 - [Docker](docker)
 - [JavaScript](javascript)
 - [Jekyll]
-- [Jenkins]
+- [Jenkins](jenkins)
 - [Kafaka]
 - [Linux]
 - [Machine Learning](machine-learning)
