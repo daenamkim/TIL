@@ -27,3 +27,4 @@
 - [x] [Here are the best programming languages to learn in 2018](https://medium.freecodecamp.org/best-programming-languages-to-learn-in-2018-ultimate-guide-bfc93e615b35)
 - [x] [ReactJS - Parameterized Event Handlers](https://medium.freecodecamp.org/reactjs-pass-parameters-to-event-handlers-ca1f5c422b9)
 - [x] [Stateless な React Component の記法をまとめてみた](https://qiita.com/kotaroito/items/e36ebac185b6b1d8538d)
+- [x] [A dirt simple introduction to higher order functions in JavaScript](https://medium.com/humans-create-software/a-dirt-simple-introduction-to-higher-order-functions-in-javascript-b33bf9e19056)
