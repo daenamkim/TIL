@@ -11,4 +11,4 @@
 - [조대협](http://bcho.tistory.com/)
 - [조성문](https://sungmooncho.com/)
 - [AWESOME DEVBLOG](https://awesome-devblog.herokuapp.com/#/)
-
+- [maxogden](https://maxogden.com/node-distributed-systems.html)
