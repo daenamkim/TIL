@@ -2,7 +2,7 @@
 
 ### Notes App Host
 
-- [Notes App's URL](http://notes.oootoko.net/)
+- [Notes App's URL](https://notes.oootoko.net/)
 
 ### Serverless Stack Tutorial
 
