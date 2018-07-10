@@ -20,7 +20,7 @@ Collections of what I learned every day.
 - [Jekyll]
 - [Jenkins](jenkins)
 - [Kafaka]
-- [Linux]
+- [Linux](linux)
 - [Machine Learning](machine-learning)
 - [MacOS](macos)
 - [NGINX](nginx)
